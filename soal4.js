@@ -1,4 +1,3 @@
-/*
 let userName = prompt('Name:');
 prompt(userName);
 
@@ -10,4 +9,3 @@ confirm(confirmed);
 
 let accept = alert('Terima kasih sudah mengisi form');
 alert(accept);
-*/
